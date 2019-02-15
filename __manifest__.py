@@ -3,10 +3,10 @@
     'name': "website_sale_clear_search",
 
     'summary': """
-        Clear Search when switching categories""",
+        Clear search when switching categories""",
 
     'description': """
-        Clear Search when switching categories
+        Clear search when switching category, and clear category when searching.
     """,
 
     'author': "Marius Stedjan - Nordoo",
@@ -14,11 +14,4 @@
     'category': 'ecommerce',
     'version': '0.1',
     'depends': ['website_sale'],
-
-    # always loaded
-    'data': [
-        # 'security/ir.model.access.csv',
-        # 'views/views.xml',
-        # 'views/templates.xml',
-    ],
 }
