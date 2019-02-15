@@ -11,6 +11,7 @@
 
     'author': "Marius Stedjan - Nordoo",
     'website': "http://www.nordoo.no",
+    'license': 'OPL-1',
     'category': 'ecommerce',
     'version': '0.1',
     'depends': ['website_sale'],
